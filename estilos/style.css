@@ -1,0 +1,28 @@
+* {box-sizing: border-box;}
+
+.textcenter {
+    text-align: center;
+    align-items: center;
+}
+
+.flex {
+    display: flex;
+}
+
+.mdl-layout__header-row {
+    justify-content: space-between;
+}
+
+.container-lista {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    gap: 10px;
+    padding: 10px;
+    margin: 10px;
+    
+    
+}
+
+.card1 {
+    
+}
